@@ -1,6 +1,4 @@
-# Aula - Testes Automatizados no Azure (exemplo)
-Pasta criada automaticamente pelo script do ChatGPT. Conteúdo:
-
+## Do que precisa: 
 - server.js           -> App Node/Express com formulário de login
 - package.json        -> Scripts: start, test, lint
 - tests/login.spec.js -> Testes E2E com Playwright
